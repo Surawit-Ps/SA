@@ -1,0 +1,8 @@
+/* QR.css */
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh; /* Make the wrapper fill the viewport height */
+  }
+  
